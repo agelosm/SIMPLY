@@ -6,4 +6,4 @@ In order to compile and run:
 * make all
 * ./simplyrun 4 pi
 
-In the example above, 'pi' is a simple parallelized pi approximation algorithm, using SIMPLY's message passing functions instead of the MPI ones.
+In the example above, 'pi' is a simple parallelized pi approximation algorithm, using SIMPLY's message passing functions instead of the MPI ones. The file 'mymachines', shall include the names of the available processing nodes.
